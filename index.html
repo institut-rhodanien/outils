@@ -1,39 +1,79 @@
- <!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-<style>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <head>
+    <!-- Page setup -->
+    <meta charset="utf-8">
+    <title>Your title here</title>
+    <meta name="description" content="A brief description of your site for search engines">
+    <meta name="author" content="Information about the author here">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <link rel="icon" type="image/png" href="favicon.png">
+  
+    <!-- Stylesheets -->
+    <!-- Reset default styles and add support for google fonts -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+   
+    <!-- Custom styles -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
 
-body{
-  padding: 2rem 0rem;
-}
-.light-blue {
-  background-color: #E0F5FF !important;
-}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="row">
-    <div class="col-4">
-      <div class="list-group" id="list-tab" role="tablist">
-        <a class="list-group-item list-group-item-action active" id="list-prince-list" data-toggle="list" href="#list-prince" role="tab" aria-controls="prince">The Little Prince</a>
-        <a class="list-group-item list-group-item-action" id="list-wild-list" data-toggle="list" href="#list-wild" role="tab" aria-controls="wild">Where the Wild Things Are</a>
-        <a class="list-group-item list-group-item-action" id="list-solitude-list" data-toggle="list" href="#list-solitude" role="tab" aria-controls="messages">One Hundred Years of Solitude</a>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>    
+
+    <!-- Want to add Bootstrap? -->
+    <!-- Visit: https://getbootstrap.com/docs/4.3/getting-started/introduction/ -->
+    
+  </head>
+  
+  <body>
+
+    <header id="header">
+      <img src="logo.jpg">
+      <h1>Simple Website</h1>
+      
+      <!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
+      <ul class="main-menu">
+        <li><a href="#home">home</a></li>
+        <li><a href="#about">about</a></li>
+        <li><a href="#contact">contact</a></li>
+      </ul>                 
+    </header>
+   
+    <div id="container">
+      <div class="inner">
+        <div id="content"> 
+          
+          <div id="home" class="content-region hide">
+            <h2>Home</h2>
+            <p>
+              This is a simple website template published with Github Pages. <a href="https://github.com/cpl-makerlab/simple-website-template">Fork this repository</a> to create your own site!
+            </p>
+          </div>
+          
+          <div id="about" class="content-region hide">
+            <h2>About</h2>
+            <p>
+              Sed tempus urna et pharetra pharetra massa massa ultricies. Porttitor rhoncus dolor purus non enim praesent. Id aliquet risus feugiat in ante metus dictum. 
+            </p>
+          </div>
+          
+          <div id="contact" class="content-region hide">
+            <h2>Contact</h2>
+            <p>
+              Pellentesque nec nam aliquam sem et tortor consequat. Quisque sagittis purus sit amet volutpat consequat. Magna eget est lorem ipsum dolor. 
+            </p>
+          </div>
+          
+        </div>
       </div>
     </div>
-    <div class="col-6">
-      <div class="tab-content" id="nav-tabContent">
-        <div class="tab-pane fade show active" id="list-prince" role="tabpanel" aria-labelledby="list-prince-list">Moral allegory and spiritual autobiography, The Little Prince is the most translated book in the French language. With a timeless charm it tells the story of a little boy who leaves the safety of his own tiny planet to travel the universe, learning the vagaries of adult behaviour through a series of extraordinary encounters.</div>
-        <div class="tab-pane fade" id="list-wild" role="tabpanel" aria-labelledby="list-wild-list">One night Max puts on his wolf suit and makes mischief of one kind and another, so his mother calls him 'Wild Thing' and sends him to bed without his supper. That night a forest begins to grow in Max's room and an ocean rushes by with a boat to take Max to the place where the wild things are. Max tames the wild things and crowns himself as their king, and then the wild rumpus begins.</div>
-        <div class="tab-pane fade" id="list-solitude" role="tabpanel" aria-labelledby="list-solitude-list">The brilliant, bestselling, landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude and the need for love—in rich, imaginative prose that has come to define an entire genre known as "magical realism."</div>
-      </div>
-    </div>
-  </div>
-</div>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</body>
-</html> 
+
+    <footer>  
+      Footer region
+    </footer>
+    
+    <!-- Load additional JS scripts here -->
+    <script type="text/javascript" src="script.js"></script>
+    
+  </body>
+</html>
