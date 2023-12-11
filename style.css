@@ -17008,9 +17008,9 @@ h2.titre-bloc a {
 }
 .view-outils .category-outil--title {
   font-family:Roboto;
-  font-size:13px;
+  font-size:22px;
   font-style:normal;
-  font-weight:600;
+  font-weight:800;
   line-height:normal;
   color:#ae2a47;
   margin-bottom:15px
@@ -17018,7 +17018,7 @@ h2.titre-bloc a {
 .view-outils .category-outil--item {
   display:block;
   border-radius:3px;
-  border:1px solid #e2e2e1;
+  border:1px solid #d5506d;
   background:hsla(0,0%,100%,.5);
   padding:11px 13px 11px 18px;
   margin-bottom:7px;
@@ -17028,7 +17028,7 @@ h2.titre-bloc a {
   transition:.3s
 }
 .view-outils .category-outil--item.active {
-  border-left:5px solid #9cc400;
+  border-left:12px solid #d5506d;
   background:#fff;
   -webkit-box-shadow:1px 2px 4px 0 rgba(0,0,0,.1);
   box-shadow:1px 2px 4px 0 rgba(0,0,0,.1)
