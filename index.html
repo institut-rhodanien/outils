@@ -1,31 +1,88 @@
 <!doctype html>
 <html>
-  <head>
-    <!-- Page setup -->
-    <meta charset="utf-8">
-    <title>Your title here</title>
-    <meta name="description" content="A brief description of your site for search engines">
-    <meta name="author" content="Information about the author here">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-    <link rel="icon" type="image/png" href="favicon.png">
-  
-    <!-- Stylesheets -->
-    <!-- Reset default styles and add support for google fonts -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" type="text/css" />
-    <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
-   
-    <!-- Custom styles -->
-    <link href="style.css" rel="stylesheet" type="text/css" />
+<head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://techniloire.com/sites/all/themes/techniloire/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>
+        function launchGA() {
+            var _paq = window._paq = window._paq || [];
+            _paq.push(['setCookieDomain', '*.www.techniloire.com']);
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u='https://statistique.vinsdeloire.fr/';
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '6']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        }
 
-    <!-- jQuery -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>    
+        window.axeptioSettings = {
+          clientId: '60daffffa959f9168842e6a9',
+          jsonCookieName: 'axeptio_cookies',
+          cookiesVersion: 'v1',
+          authorizedVendorsCookieName: 'axeptio_authorized_vendors',
+          userCookiesDuration: 365,
+          apiUrl: 'https://api.axept.io/v1',
+        };
 
-    <!-- Want to add Bootstrap? -->
-    <!-- Visit: https://getbootstrap.com/docs/4.3/getting-started/introduction/ -->
+
+        (function(d, s) {
+          var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
+          e.async = true; e.src = '//static.axept.io/sdk.js';
+          t.parentNode.insertBefore(e, t);
+        })(document, 'script');
+
+        void 0 === window._axcb && (window._axcb = []);
+        window._axcb.push(function(axeptio) {
+          axeptio.on('cookies:complete', function(choices) {
+            if(choices.google_analytics) {
+              launchGA();
+            }
+          })
+        });
+      </script>
+    <title>Outils | Techniloire</title>
+
+            <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="initial-scale=1, width=device-width">
     
-  </head>
-  
+    <style>
+@import url("https://techniloire.com/modules/field/theme/field.css?s4scoe");
+@import url("https://techniloire.com/sites/all/modules/contrib/logintoboggan/logintoboggan.css?s4scoe");
+@import url("https://techniloire.com/modules/search/search.css?s4scoe");
+@import url("https://techniloire.com/modules/user/user.css?s4scoe");
+@import url("https://techniloire.com/sites/all/modules/contrib/views/css/views.css?s4scoe");
+@import url("https://techniloire.com/sites/all/modules/contrib/ckeditor/css/ckeditor.css?s4scoe");
+@import url("https://techniloire.com/sites/all/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?s4scoe");
+</style>
+<style>
+@import url("https://techniloire.com/sites/all/modules/contrib/ctools/css/ctools.css?s4scoe");
+</style>
+<style>
+@import url("https://techniloire.com/sites/all/themes/techniloire/build/css/styles.css?s4scoe");
+</style>
+    <script src="https://techniloire.com/misc/jquery.js?v=1.4.4"></script>
+<script src="https://techniloire.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script src="https://techniloire.com/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.4.4"></script>
+<script src="https://techniloire.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://techniloire.com/misc/drupal.js?s4scoe"></script>
+<script src="https://techniloire.com/sites/all/modules/custom/techniloire_bibliotech_export/assets/tehniloire_bibliotech_export.js?s4scoe"></script>
+<script src="https://techniloire.com/sites/all/modules/custom/techniloire_espace_membre/assets/techniloire_espace_membre.js?s4scoe"></script>
+<script src="https://techniloire.com/sites/default/files/languages/fr_mHUPMGr5hjKzw5jenKXx8qOWKHiTJRxlZRjKLprKr4k.js?s4scoe"></script>
+<script src="https://techniloire.com/sites/all/themes/techniloire/build/js/bundle.js?s4scoe"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":1,"ajaxPageState":{"theme":"techniloire","theme_token":"idtH_fwe2UegMGm06ke8oBO4EzTwFYfApnEaR2WFP7Q","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/techniloire_bibliotech_export\/assets\/tehniloire_bibliotech_export.js":1,"sites\/all\/modules\/custom\/techniloire_espace_membre\/assets\/techniloire_espace_membre.js":1,"public:\/\/languages\/fr_mHUPMGr5hjKzw5jenKXx8qOWKHiTJRxlZRjKLprKr4k.js":1,"sites\/all\/themes\/techniloire\/build\/js\/bundle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/techniloire\/system.base.css":1,"sites\/all\/themes\/techniloire\/system.menus.css":1,"sites\/all\/themes\/techniloire\/system.messages.css":1,"sites\/all\/themes\/techniloire\/system.theme.css":1,"sites\/all\/themes\/techniloire\/comment.css":1,"sites\/all\/themes\/techniloire\/node.css":1,"sites\/all\/themes\/techniloire\/build\/css\/styles.css":1}},"urlAjaxDelete":{"ajaxUrl":"\/delete\/ajax"},"urlAjaxAdd":{"ajaxUrl":"\/addElement\/ajax"},"better_exposed_filters":{"views":{"outils":{"displays":{"page":{"filters":[]}}}}},"urlIsAjaxTrusted":{"\/resultat-recherche":true}});</script>
+            <!--[if lt IE 9]>
+        <script src="/sites/all/themes/zen/js/html5shiv.min.js"></script>
+        <![endif]-->
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:200,300,400,500,500i,600,700" rel="stylesheet">
+    <link href="https://techniloire.com/sites/all/themes/techniloire/css/print.css" media="print" rel="stylesheet" type="text/css" />
+</head>  
   <body>
 
     <header id="header">
