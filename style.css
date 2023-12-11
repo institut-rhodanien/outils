@@ -6979,7 +6979,7 @@ button.close {
 }
 .content-RTE h1 {
   font-size:45px;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-weight:200;
   margin:13px 0
 }
@@ -6989,7 +6989,7 @@ button.close {
   font-weight:600
 }
 .content-RTE h2 {
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:35px;
   font-weight:600;
   line-height:40px;
@@ -7005,7 +7005,7 @@ button.close {
   font-size:25px;
   font-weight:500;
   margin-bottom:13px;
-  font-family:Libre Franklin,sans-serif
+  font-family:Roboto,sans-serif
 }
 .content-RTE h3.title-3 {
   color:#474748;
@@ -7037,7 +7037,7 @@ button.close {
 }
 .content-RTE p {
   color:#929292;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:14px;
   font-weight:300;
   line-height:22px;
@@ -7071,7 +7071,7 @@ button.close {
 .content-RTE blockquote p {
   color:#95be15;
   font-size:18px;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-weight:500;
   font-style:italic
 }
@@ -7123,7 +7123,7 @@ button.close {
 }
 .content-RTE ul li {
   color:#929292;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:14px;
   font-weight:300;
   list-style:none;
@@ -7153,7 +7153,7 @@ button.close {
 .content-RTE ol li {
   counter-increment:rte-counter;
   color:#929292;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:14px;
   font-weight:300;
   list-style:none;
@@ -11220,7 +11220,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   background-image:url(/sites/all/themes/techniloire/build/images/svg/icon-info.svg)
 }
 body {
-  font-family:Libre Franklin,Helvetica,Arial,sans-serif;
+  font-family:Roboto,Helvetica,Arial,sans-serif;
   background:#f7f7f7;
   color:#000;
   line-height:1.3
@@ -11576,7 +11576,7 @@ header .barnav .pre-header li.search a i {
 .entete-lien li {
   display:inline-block;
   line-height:1;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:12px;
   position:relative;
   letter-spacing:normal;
@@ -11902,7 +11902,7 @@ footer .cookie {
 }
 footer .cookie p {
   float:none;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:14px;
   color:#fff;
   width:100%;
@@ -12297,7 +12297,7 @@ footer .cookie a {
 }
 #navbar-mobile .entete-lien li {
   border-bottom:1px solid #dddcdb;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:300
 }
 #navbar-mobile .entete-lien li a {
@@ -12831,7 +12831,7 @@ footer .cookie a {
   border:1px solid #ea2933
 }
 .obligatoires {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#919191;
   font-size:.9em
@@ -13092,7 +13092,7 @@ footer .cookie a {
   display:flex
 }
 .row-field .cgu label {
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:11px;
   text-transform:inherit;
   line-height:18px;
@@ -13121,7 +13121,7 @@ footer .cookie a {
   }
 }
 secteur h2 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:700;
   font-size:1.75em
 }
@@ -13166,7 +13166,7 @@ secteur h2 a {
   width:100%
 }
 .top-content .figure_desc h2 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:700;
   color:#fff;
   width:250px;
@@ -13267,13 +13267,13 @@ body #hp_tips {
   body #hp_tips .txt_tips a {
     display:block;
     padding:17px 10px 16px;
-    font-family:Libre Franklin;
+    font-family:Roboto;
     font-weight:600;
     font-size:.89em;
     color:#484748
   }
   body #hp_tips .txt_tips_description {
-    font-family:Libre Franklin;
+    font-family:Roboto;
     font-weight:400;
     font-size:11px;
     color:#484748;
@@ -13468,7 +13468,7 @@ body #hp_tips {
 }
 .wrap_col h2 {
   color:#fff;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:1.5em;
   margin:0 0 14px;
@@ -13501,7 +13501,7 @@ body #hp_tips {
   width:auto
 }
 .wrap_col .outils_description {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#fff
 }
@@ -13673,7 +13673,7 @@ body #hp_tips {
   }
 }
 .actus_title {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:1.25em;
   color:#484748;
@@ -13772,7 +13772,7 @@ body #hp_tips {
   text-align:center
 }
 .agenda_jour {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   font-size:1.92em;
   color:#fff
@@ -13824,7 +13824,7 @@ body #hp_tips {
   }
 }
 .agenda_titre {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:1.2em;
   letter-spacing:.2px;
@@ -13845,7 +13845,7 @@ body #hp_tips {
 }
 .hp_actus h2 {
   color:#484748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   padding:23px 0 14px;
   margin:0;
@@ -13916,7 +13916,7 @@ body #hp_tips {
   padding:49px 0 25px;
   margin-bottom:37px;
   border-bottom:1px solid #fff;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:1.75em
 }
 @media only screen and (min-width:640px) {
@@ -13985,7 +13985,7 @@ body #hp_tips {
   }
 }
 .wrap_fiche .hp_encart_fiche p {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   color:#484748;
   font-size:1.25em
@@ -14070,7 +14070,7 @@ body #hp_tips {
 }
 #block-techniloire-newsletter-newsletter-hp .inscrivez-vous {
   color:#fff;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:1.95em;
   margin:0;
@@ -14376,7 +14376,7 @@ body #hp_tips {
   border:none;
   text-align:center;
   color:#ea2933;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:700;
   font-size:12px;
   margin-bottom:12px
@@ -14387,7 +14387,7 @@ body #hp_tips {
   line-height:18px;
   font-weight:300;
   font-size:12px;
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   text-indent:unset;
   text-align:left;
   width:auto;
@@ -14447,7 +14447,7 @@ body #hp_tips {
   }
 }
 .presse_title {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:500;
   color:#919191;
   font-size:1em
@@ -14474,7 +14474,7 @@ body #hp_tips {
   }
 }
 .espace_presse h2 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   color:#4f1e56;
   border-bottom:1px solid #e2e2e1;
@@ -14856,7 +14856,7 @@ body #hp_tips {
   }
 }
 .list_event .timeliner_element .content_title {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   color:#484748;
   font-size:1.3em;
@@ -14978,7 +14978,7 @@ body #hp_tips {
 }
 .list_event .timeliner_element .timeliner_title .timeliner_jour {
   display:block;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:200;
   font-size:4.8em;
   padding-bottom:7px;
@@ -14999,7 +14999,7 @@ body #hp_tips {
 }
 .list_event .timeliner_element .timeliner_title .timeliner_mois {
   display:block;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:300;
   font-size:1.4em;
   letter-spacing:.2px;
@@ -15165,7 +15165,7 @@ body #hp_tips {
   }
 }
 .section-contact .wrap-form label[for=edit-submitted-cgu-1] {
-  font-family:Libre Franklin,sans-serif;
+  font-family:Roboto,sans-serif;
   font-size:11px;
   text-transform:inherit;
   line-height:18px
@@ -15294,7 +15294,7 @@ body #hp_tips {
   display:inline-block
 }
 #resultat_recherche {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   color:#8d469d;
   padding:35px 0 24px;
@@ -15346,7 +15346,7 @@ body #hp_tips {
   }
 }
 .recherche_affichage .view-content p {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#919191;
   font-size:.9em;
@@ -15465,7 +15465,7 @@ body #hp_tips {
   }
 }
 .hp_visuel.page_404 h1 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:100;
   color:#fff;
   margin:0;
@@ -15507,7 +15507,7 @@ body #hp_tips {
 }
 .hp_visuel.page_404 .txt_404 span {
   display:block;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   color:#fff;
   font-size:.8em;
   padding-bottom:20px
@@ -15572,7 +15572,7 @@ body #hp_tips {
 .hp_visuel.interieur_image .top-content .figure h1:not(.titre_outils) {
   color:#fff;
   font-size:1.8em;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:100;
   position:absolute;
   bottom:15px;
@@ -15714,7 +15714,7 @@ body #hp_tips {
   font-weight:600
 }
 .yourtheme-user-login-form-wrapper h3 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:500;
   color:#8d469d;
   font-size:1.25em;
@@ -15796,7 +15796,7 @@ body #hp_tips {
 .wrap-form .passe-oublie {
   display:inline-block;
   float:right;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#919191;
   font-size:1em;
@@ -15839,7 +15839,7 @@ body #hp_tips {
 }
 .wrap-form label.replacelabel {
   display:inline-block;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#919191;
   text-transform:none;
@@ -15952,7 +15952,7 @@ input[type=checkbox]:checked+label {
   background-position:0 100%
 }
 .view-empty {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   background-color:#f8f7f7;
   text-align:center;
@@ -16015,7 +16015,7 @@ input[type=checkbox]:checked+label {
 }
 .contact-form .txt_contact {
   text-align:center;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   color:#8d469d;
   font-size:1.25em;
@@ -16261,7 +16261,7 @@ input[type=checkbox]:checked+label {
   display:none
 }
 .form-user-profile h3 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:500;
   color:#8d469d;
   font-size:1.25em;
@@ -16418,7 +16418,7 @@ input[type=checkbox]:checked+label {
 .msg-error {
   margin-top:-23px;
   color:red;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:12px;
   font-weight:300
 }
@@ -16449,7 +16449,7 @@ input[type=checkbox]:checked+label {
 }
 .wrap-titre h1 {
   color:#fff;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:40px!important;
   font-weight:300;
   position:inherit!important;
@@ -16557,7 +16557,7 @@ input[type=checkbox]:checked+label {
 }
 h2.titre-bloc {
   color:#474748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:25px;
   padding:28px 0 0
@@ -16724,7 +16724,7 @@ h2.titre-bloc a {
 .infos h2 {
   border-bottom:1px solid #e2e2e1;
   color:#474747;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:20px;
   line-height:1;
@@ -16762,7 +16762,7 @@ h2.titre-bloc a {
   font-weight:200
 }
 .infos .agenda_date .agenda_mois {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:23px;
   font-weight:200
 }
@@ -16831,7 +16831,7 @@ h2.titre-bloc a {
 .wrap-info-pratique .txt-info {
   color:#474748;
   font-size:13px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:300
 }
 @media only screen and (min-width:768px) {
@@ -16852,7 +16852,7 @@ h2.titre-bloc a {
 .wrap-doc-associe li a {
   color:#929292;
   font-size:13px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:300
 }
 @media only screen and (min-width:768px) {
@@ -17007,7 +17007,7 @@ h2.titre-bloc a {
   }
 }
 .view-outils .category-outil--title {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   font-style:normal;
   font-weight:600;
@@ -17061,7 +17061,7 @@ h2.titre-bloc a {
   justify-content:center;
   position:relative;
   letter-spacing:-.5px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:11px;
   line-height:44px;
   color:#662666;
@@ -17118,7 +17118,7 @@ h2.titre-bloc a {
   }
 }
 .description_outils>h1 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:24px;
   color:#fff;
@@ -17350,7 +17350,7 @@ h2.titre-bloc a {
   }
 }
 h1.titre-detail {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   color:#474748;
   font-size:35px;
   font-weight:600;
@@ -17573,7 +17573,7 @@ h1.titre-detail {
 }
 .a-la-une h2 {
   color:#484748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:25px;
   font-weight:600;
   margin-bottom:14px
@@ -17590,7 +17590,7 @@ h1.titre-detail {
 }
 .a-la-une .titre {
   color:#474748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:12px;
   font-weight:600;
   line-height:15px
@@ -17673,7 +17673,7 @@ h1.titre-detail {
   border-bottom:1px solid #5c5e62;
   color:#fff;
   font-size:29px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   margin-bottom:15px;
   padding-bottom:7px
@@ -17752,7 +17752,7 @@ h1.titre-detail {
   z-index:40
 }
 .fichete .col-md-6 h2 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   font-size:1.25em;
   color:#8d469d;
@@ -17801,7 +17801,7 @@ h1.titre-detail {
   }
 }
 .fichete .col-md-6 li a {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:400;
   font-size:.9em;
   color:#919191;
@@ -17823,7 +17823,7 @@ h1.titre-detail {
   color:#9cc400
 }
 .fichete .col-md-6 h3 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   color:#9cc400;
   font-size:1.1em;
@@ -17898,7 +17898,7 @@ h1.titre-detail {
     color:#999;
     padding:0 20px 0 0;
     font-size:13px;
-    font-family:Libre Franklin;
+    font-family:Roboto;
     font-weight:400;
     color:#484748
   }
@@ -18228,7 +18228,7 @@ h1.titre-detail {
   border-bottom:1px solid #fff;
   color:#fff;
   font-size:29px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   margin-bottom:25px;
   padding-bottom:20px
@@ -18362,7 +18362,7 @@ h1.titre-detail {
 }
 .wrap-content-fiche h1 {
   color:#474748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   line-height:40px;
   margin-bottom:20px
@@ -18377,7 +18377,7 @@ h1.titre-detail {
 }
 .bloc-cat .titre-cat {
   font-size:14px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   padding-bottom:20px
 }
 @media only screen and (min-width:768px) {
@@ -18388,7 +18388,7 @@ h1.titre-detail {
 }
 .list-fiche li {
   background:url(../images/design/puce-technique.png) no-repeat 0 5px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   line-height:18px;
   padding-left:12px;
@@ -18483,7 +18483,7 @@ body.page-espace-membre header .esp-membre li {
 body.page-espace-membre header .esp-membre li.user {
   display:none;
   color:#474747;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:14px;
   font-weight:600;
   line-height:85px;
@@ -18777,7 +18777,7 @@ body.page-espace-membre footer {
 }
 .espace-membre h2 strong {
   display:block;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:30px;
   text-transform:none
 }
@@ -18800,7 +18800,7 @@ body.page-espace-membre footer {
   border:none;
   display:inline-block;
   font-size:18px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:600;
   line-height:50px;
   margin:0;
@@ -18832,7 +18832,7 @@ body.page-espace-membre footer {
   text-align:center
 }
 .espace-membre .item .push-item h3 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:25px;
   font-weight:600;
   color:#fff;
@@ -19003,7 +19003,7 @@ body.page-espace-membre footer {
 }
 .item-en-svr-plus p {
   color:#7a7a7a;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:18px;
   line-height:24px
 }
@@ -19646,7 +19646,7 @@ body.page-espace-membre footer {
 }
 .video-details .sidebar-actus h2 {
   color:#484748;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:20px;
   font-weight:600;
   margin:26px 0
@@ -19765,7 +19765,7 @@ body.page-espace-membre footer {
 }
 section.bibliotech {
   position:relative;
-  font-family:Libre Franklin
+  font-family:Roboto
 }
 section.bibliotech.loading:after {
   content:"";
@@ -19780,7 +19780,7 @@ section.bibliotech.loading:after {
 }
 section.bibliotech .bibliotech-filters-title,
 section.bibliotech .bibliotech-filters .views-exposed-widgets .views-widget-filter-combine label {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   width:100%;
   font-size:23px;
   color:#662666;
@@ -19884,7 +19884,7 @@ section.bibliotech .bibliotech-filters input[type=checkbox]+label {
   line-height:12px;
   font-weight:300;
   font-size:12px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   text-indent:unset;
   width:auto;
   height:auto;
@@ -19989,7 +19989,7 @@ section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter
   z-index:2
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text] {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   border:1px solid #e2e2e1;
   margin:0 0 44px;
   width:100%;
@@ -20000,31 +20000,31 @@ section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter
   font-weight:600
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text]::-webkit-input-placeholder {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   color:#929292;
   font-weight:500
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text]::-moz-placeholder {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   color:#929292;
   font-weight:500
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text]:-ms-input-placeholder {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   color:#929292;
   font-weight:500
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text]::-ms-input-placeholder {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   color:#929292;
   font-weight:500
 }
 section.bibliotech .bibliotech-filters .views-exposed-widget.views-widget-filter-combine .form-type-textfield input[type=text]::placeholder {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:13px;
   color:#929292;
   font-weight:500
@@ -20411,7 +20411,7 @@ section.bibliotech .bibliotech-listings {
 section.bibliotech .bibliotech-listings .bibliotech-card {
   position:relative;
   padding-left:29px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   margin-bottom:25px
 }
 section.bibliotech .bibliotech-listings .bibliotech-card h4 {
@@ -20505,7 +20505,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
 .recherche-national .national-card-title {
   text-align:center;
   font-size:16px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   color:#484748;
   font-weight:400
 }
@@ -20519,14 +20519,14 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   padding:47px 0 24px
 }
 .bibliotech-detail {
-  font-family:Libre Franklin
+  font-family:Roboto
 }
 .bibliotech-detail .title-section {
   margin-top:12px
 }
 .bibliotech-detail .title-section h2,
 .bibliotech-detail .title-section h3 {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   color:#662666;
   font-weight:600
 }
@@ -20555,7 +20555,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   border-top:1px solid hsla(0,0%,57.3%,.5)
 }
 .bibliotech-detail .content {
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-size:14px;
   color:#484748;
   margin-bottom:25px;
@@ -20651,7 +20651,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   background:#fff!important;
   max-width:800px!important;
   padding:10px;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   word-break:break-all;
   color:#919191;
   -webkit-box-shadow:-2px 1px 11px hsla(0,0%,57.3%,.5);
@@ -20951,7 +20951,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   border:none;
   text-align:center;
   color:#ea2933;
-  font-family:Libre Franklin;
+  font-family:Roboto;
   font-weight:700;
   font-size:12px;
   margin-bottom:12px
@@ -21128,7 +21128,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   padding:0 10px 14px
 }
 .node-type-calculateur-de-rendement .wrap-form .calculateur-form-container .poids-moyen-card-wrapper .card-poids-moyen .text-wrapper h5 {
-  font-family:Libre Franklin,Helvetica,sans-serif;
+  font-family:Roboto,Helvetica,sans-serif;
   text-transform:none;
   font-size:11px;
   font-weight:600;
@@ -21485,7 +21485,7 @@ section.bibliotech .bibliotech-listings .pagination .pager {
   margin-bottom:50px
 }
 .hp_articles .article-title .article-descr {
-  font-family:Libre Franklin,Arial,SansSerif;
+  font-family:Roboto,Arial,SansSerif;
   font-weight:400;
   font-size:14px;
   line-height:24px
