@@ -17012,7 +17012,7 @@ h2.titre-bloc a {
   font-style:normal;
   font-weight:600;
   line-height:normal;
-  color:#884a9c;
+  color:#ae2a47;
   margin-bottom:15px
 }
 .view-outils .category-outil--item {
@@ -17064,7 +17064,7 @@ h2.titre-bloc a {
   font-family:Roboto;
   font-size:11px;
   line-height:44px;
-  color:#662666;
+  color:#ae2a47;
   text-transform:uppercase;
   font-weight:700;
   -webkit-transform:rotate(45deg);
@@ -17106,7 +17106,7 @@ h2.titre-bloc a {
     padding:34px;
     min-height:unset;
     background-size:auto;
-    background:#561269 url(../images/design/bg-outils-int.jpg) no-repeat 0;
+    background:#ae2a47 url(../images/design/bg-outils-int.jpg) no-repeat 0;
     background-size:cover
   }
 }
@@ -17291,7 +17291,7 @@ h2.titre-bloc a {
   opacity:1
 }
 .purple_bg {
-  background-color:#4f1e56;
+  background-color:#801f34;
   color:#fff
 }
 .purple_bg a {
